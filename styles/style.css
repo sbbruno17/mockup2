@@ -1,3 +1,7 @@
+.container-fluid {
+    padding: 0px;
+}
+
 .topFooter {
     width: 100%;
     height: 30px;
@@ -51,7 +55,7 @@ h2 {
 
 .midSection {
     background-color: #ebebeb;
-    height: 420px;
+    height: 380px;
     width: 100%;
     margin: 0px;
 
@@ -70,7 +74,7 @@ h2 {
 
 .monitor {
     width: 468px;
-    height: 270px;
+    height: 350px;
     margin-left: 20px;
 }
 
@@ -79,4 +83,203 @@ h1 {
     font-size: 36px;
     line-height: 1.19;
     color: #333333;
+}
+
+.exampleImg {
+    width: 64px;
+    height: 64px;
+    margin-left: 30%;
+}
+
+h3 {
+    width: 179px;
+    height: 18px;
+    font-family: Georgia;
+    font-size: 18px;
+    line-height: 1.78;
+    text-align: left;
+    color: #55415f;
+    margin-left: 45px;
+}
+
+
+.card-description {
+    width: 203px;
+    height: 84px;
+    font-family: Georgia;
+    font-size: 13px;
+    line-height: 1.77;
+    letter-spacing: normal;
+    text-align: center;
+    color: #807d77;
+}
+
+button {
+    background-color: #55415f;
+    border-radius: 10px;
+    color: white;
+}
+
+.midText {
+    padding-top: 120px;
+}
+
+.thirdSection {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.rareText {
+    width: 879px;
+    height: 48px;
+    font-family: Georgia;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.61;
+    letter-spacing: normal;
+    text-align: center;
+    color: #222222;
+
+}
+
+.imgTittle {
+    width: 155px;
+    height: 14px;
+    font-family: Georgia;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.22;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7f7d77;
+}
+
+.bottompic {
+    width: 225px;
+    height: 140px;
+}
+
+.readMoreBtn {
+    width: 76px;
+    height: 11px;
+    font-family: Georgia;
+    font-size: 13px;
+    line-height: 1.23;
+    text-align: left;
+    color: #55415f;
+}
+
+.rareText2 {
+    width: 211px;
+    height: 55px;
+    font-family: Georgia;
+    font-size: 13px;
+    line-height: 1.62;
+    text-align: left;
+    color: #807d77;
+}
+
+.footerStyle {
+    height: 274px;
+    background-color: #222222;
+}
+
+.bottomTitle {
+    font-family: Georgia;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.date {
+    width: 109px;
+    height: 10px;
+    font-family: Georgia;
+    font-size: 10px;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #807d77;
+}
+
+.pTittle {
+    width: 67px;
+    height: 11px;
+    font-family: Georgia;
+    font-size: 13px;
+    line-height: 1.23;
+    letter-spacing: normal;
+    text-align: left;
+    color: #9f81a9;
+}
+
+.dateText {
+    width: 223px;
+    height: 125px;
+    font-family: Georgia;
+    font-size: 12px;
+    line-height: 1.58;
+    letter-spacing: normal;
+    text-align: left;
+    color: #807d77;
+}
+
+.linkBlockText>li {
+    width: 120px;
+    font-family: Georgia;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #9f80a9;
+}
+
+.companyDetails {
+    width: 136px;
+    font-family: Georgia;
+    font-size: 12px;
+    line-height: 1.58;
+    letter-spacing: normal;
+    text-align: left;
+    color: #807d77;
+}
+
+.emailText {
+
+    font-family: Georgia;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #9f80a9;
+}
+
+.copyrightFooter {
+    height: 60px;
+    background-color: #202020;
+}
+
+.copyrightText {
+    width: 315px;
+    font-family: Georgia;
+    font-size: 12px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #807d77;
+}
+
+.newsBtn {
+    width: 80px;
+    height: 31px;
+    background-color: #9f81a9;
 }
